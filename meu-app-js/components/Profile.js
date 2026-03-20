@@ -4,14 +4,15 @@ import { View, Text, Image, StyleSheet } from 'react-native';
 export default function Profile() {
   return (
     <View style={styles.container}>
-      <Image 
-        source={{ uri: 'https://github.com/barbaraluizaoliveira.png' }} 
-        style={styles.image} 
+      <Image
+        source={require('../assets/foto.jpeg')}
+        style={styles.image}
       />
       <Text style={styles.name}>Seu Nome</Text>
+      <Text style={styles.name}>Layza Nicolle</Text>
       <Text style={styles.bio}>
-        Desenvolvedora Full-stack focada em Java e Spring Boot. 
-        Atualmente cursando Sistemas para Internet e atuando no suporte do PEP.
+        Estudante de tecnologia apaixonada por desenvolvimento, design, análise de dados e agora uma grande curiosa e apaixonada por AWS.
+        Sempre buscando aprender novas ferramentas e melhorar minhas habilidades.
       </Text>
     </View>
   );
