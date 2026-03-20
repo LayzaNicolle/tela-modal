@@ -26,9 +26,9 @@ export default function App() {
           <View style={styles.modalView}>
             <Text style={styles.modalTitle}>Detalhamento Profissional</Text>
             <Text style={styles.modalText}>
-              • Experiência com Java 8 e Spring Boot.{"\n"}
-              • Sustentação de sistemas PEP (MV).{"\n"}
-              • Conhecimentos em Oracle PL/SQL.
+              • Experiência com Python e SAS Customer Intelligence.{"\n"}
+              • Análise de dados e criação de automação (Accenture).{"\n"}
+              • Conhecimentos SQL.
             </Text>
             
             <Pressable

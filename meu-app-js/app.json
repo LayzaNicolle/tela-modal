@@ -25,17 +25,17 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "1e9a94d4-49cf-44a0-8a7f-39e0ca9ae170"
-      }
-    },
-    "owner": "babiluuuu",
+    "owner": "layzanicolle",
     "runtimeVersion": {
       "policy": "appVersion"
     },
+    "extra": {
+      "eas": {
+        "projectId": "d626dc28-9312-4d2d-8d86-f6a589a8f67b"
+      }
+    },
     "updates": {
-      "url": "https://u.expo.dev/1e9a94d4-49cf-44a0-8a7f-39e0ca9ae170"
+      "url": "https://u.expo.dev/d626dc28-9312-4d2d-8d86-f6a589a8f67b"
     }
   }
 }
