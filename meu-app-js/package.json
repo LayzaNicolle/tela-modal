@@ -1,0 +1,19 @@
+{
+  "name": "meu-app-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~55.0.6",
+    "expo-status-bar": "~55.0.4",
+    "expo-updates": "~55.0.13",
+    "react": "19.2.0",
+    "react-native": "0.83.2"
+  },
+  "private": true
+}
