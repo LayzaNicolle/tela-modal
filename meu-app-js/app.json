@@ -25,17 +25,17 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "owner": "layzanicolle",
+    "owner": "mobile20261",
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "extra": {
       "eas": {
-        "projectId": "d626dc28-9312-4d2d-8d86-f6a589a8f67b"
+        "projectId": "ca28b9de-d874-48f0-9c63-1402c212bb34"
       }
     },
     "updates": {
-      "url": "https://u.expo.dev/d626dc28-9312-4d2d-8d86-f6a589a8f67b"
+      "url": "https://u.expo.dev/ca28b9de-d874-48f0-9c63-1402c212bb34"
     }
   }
 }
